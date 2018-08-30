@@ -1,6 +1,6 @@
-#Python Telegram Bot
+# Python Telegram Bot
 
 This a basic to-do list bot with a task deletion keyboard.
 
-##Upcoming Features:
+## Upcoming Features:
 1. Adding Priority to tasks.
